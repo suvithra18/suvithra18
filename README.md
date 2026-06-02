@@ -109,10 +109,7 @@ Passionate about mentoring future developers, building scalable applications, an
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suvithra18" />
-</p>
 
----
 
 ## 🌐 Connect With Me
 
