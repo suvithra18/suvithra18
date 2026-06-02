@@ -1,75 +1,136 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Suvithra J</h1>
 
 <h3 align="center">
-Senior Technical Trainer | Full Stack Developer | Java | Spring Boot | React | Python
+Senior Technical Trainer | Full Stack Developer | Data Analytics Enthusiast
 </h3>
 
 <p align="center">
-Passionate about Technical Training, Software Development, and Mentoring Future Developers 🚀
+Passionate about mentoring future developers, building scalable applications, and transforming data into insights.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suvithra18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently working as Full Stack Trainer
-- 🌱 Learning Data Analytics & Power BI
-- 👨‍🏫 Trained 500+ students and professionals
-- 💻 5+ years experience in Java, Spring Boot, React, Python & Django
-- 📍 Tamil Nadu, India
-- 📫 Email: suvithrachithra@gmail.com
+- 🎓 Senior Technical Trainer with 5+ years of experience
+- 💻 Full Stack Developer specializing in Java, Spring Boot, React, Python & Django
+- 📊 Data Analytics enthusiast with Power BI expertise
+- 👨‍🏫 Trained 500+ students through project-based learning
+- 🚀 Passionate about bridging education and industry
+- 🌱 Currently learning **Advanced Power BI, AWS & AI Tools**
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🏢 Smart Apartment Management System
-- React.js
-- Spring Boot
-- MySQL
+- React.js, Spring Boot, MySQL
+- Resident, Visitor, Parking & Payment Management
 - JWT Authentication
-- PDF & Excel Reports
+- PDF & Excel Reporting
 
 ### 🤖 CodeGenome AI Platform
 - Resume Analysis
 - Mock Interviews
 - GitHub Evaluation
-- Student Analytics
+- Student Performance Analytics
 
 ### 📊 EmoHealth Analytics Dashboard
-- Power BI
-- DAX
+- Power BI Dashboard
 - Forecasting Models
+- DAX Measures
 - Healthcare Analytics
+
+### 💰 Revenue Leakage Analytics
+- Business KPI Tracking
+- Revenue Monitoring
+- Interactive Power BI Reports
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-![React](https://skillicons.dev/icons?i=react,html,css,js,bootstrap)
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
 
 ### Backend
-![Backend](https://skillicons.dev/icons?i=java,spring,nodejs,python,django)
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,django" />
+</p>
 
 ### Database
-![Database](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
 
 ### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
 
 ---
 
+## 👨‍🏫 Training Highlights
 
+- 🎯 Trained 500+ learners
+- 📚 Designed Full Stack Development Curriculum
+- 🏆 Conducted 40+ Workshops & Hackathons
+- 💼 Mentored students for placements and interviews
+- 🚀 Built project-based learning programs
+
+---
+
+## 📜 Certifications
+
+- Data Analytics – NoviTech R&D Pvt Ltd
+- Data Analytics – Nexila Technologies
+- MySQL – Great Learning
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suvithra18&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvithra18&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suvithra18" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/suvithraj
-- Portfolio: https://suvithra18.github.io/portfolio
-- GitHub: https://github.com/suvithra18
+- 💼 LinkedIn: https://linkedin.com/in/suvithraj
+- 🌐 Portfolio: https://suvithra18.github.io/portfolio
+- 📧 Email: suvithrachithra@gmail.com
+- 🐙 GitHub: https://github.com/suvithra18
 
 ---
 
-⭐ Always interested in Training, Mentoring, Full Stack Development and Data Analytics.
+## 🎯 2026 Goals
+
+- Master Advanced Power BI
+- Build AI-powered Analytics Solutions
+- Contribute to Open Source Projects
+- Create Industry-Oriented Training Programs
+- Expand Full Stack Development Expertise
+
+---
+
+⭐ If you like my work, feel free to connect and collaborate!
