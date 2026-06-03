@@ -112,17 +112,17 @@ Passionate about mentoring future developers, building scalable applications, an
 
 ### Frontend
 
-<h3 align="center">Frontend</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" width="50"/>
-  <img src="https://skillicons.dev/icons?i=css" width="50"/>
-  <img src="https://skillicons.dev/icons?i=js" width="50"/>
-  <img src="https://skillicons.dev/icons?i=react" width="50"/>
+
+<p >
+  <img src="https://skillicons.dev/icons?i=html" width="50"/>&nbsp
+  <img src="https://skillicons.dev/icons?i=css" width="50"/>&nbsp
+  <img src="https://skillicons.dev/icons?i=js" width="50"/>&nbsp
+  <img src="https://skillicons.dev/icons?i=react" width="50"/>&nbsp
   <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/>
 </p>
 
-<p align="center">
+<p >
 HTML5 &nbsp;&nbsp;&nbsp;
 CSS3 &nbsp;&nbsp;&nbsp;
 JavaScript &nbsp;&nbsp;&nbsp;
