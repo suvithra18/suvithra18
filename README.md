@@ -110,65 +110,128 @@ Passionate about mentoring future developers, building scalable applications, an
 
 ## 🛠️ Tech Stack
 
-### Frontend
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br>
+HTML5
+</td>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-</p>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br>
+CSS3
+</td>
 
-<p align="center">
-HTML5 &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
-CSS3 &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
-JavaScript &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
-React.js &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="50"/><br>
+JavaScript
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react" width="50"/><br>
+React.js
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>
 Bootstrap
-</p>
-
----
+</td>
+</tr>
+</table>
 
 ### Backend
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java" width="50"/><br>
+Java
+</td>
 
-<p align="center">
-Java &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
-Spring Boot &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
-Python &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
-Django 
-</p>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=spring" width="50"/><br>
+Spring Boot
+</td>
 
----
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br>
+Python
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=django" width="50"/><br>
+Django
+</td>
+
+</tr>
+</table>
 
 ### Database
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>
+MySQL
+</td>
 
-<p align="center">
-MySQL &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postgres" width="50"/><br>
 PostgreSQL
-</p>
+</td>
 
----
+
+</tr>
+</table>
 
 ### Data Analytics
 
-<p align="center">
-  📊 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  📈 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  📉
-</p>
+<table align="center">
+<tr>
+<td align="center" width="120">
+📊<br>
+Power BI
+</td>
 
-<p align="center">
-Power BI &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
-Excel &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+<td align="center" width="120">
+📈<br>
+Excel
+</td>
+
+<td align="center" width="120">
+📉<br>
 DAX
-</p>
+</td>
+</tr>
+</table>
 
----
+### Tools
+
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>
+Git
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>
+GitHub
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>
+VS Code
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postman" width="50"/><br>
+Postman
+</td>
+
+
+</tr>
+</table>---
 
 ### Tools
 
