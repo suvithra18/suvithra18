@@ -110,79 +110,15 @@ Passionate about mentoring future developers, building scalable applications, an
 
 ## 🛠️ Tech Stack
 
-### Frontend
-
-
-
-<p >
-  <img src="https://skillicons.dev/icons?i=html" width="50"/>&nbsp;&nbsp;&nbsp
-  <img src="https://skillicons.dev/icons?i=css" width="50"/>&nbsp;&nbsp;&nbsp
-  <img src="https://skillicons.dev/icons?i=js" width="50"/>&nbsp;&nbsp;&nbsp
-  <img src="https://skillicons.dev/icons?i=react" width="50"/>&nbsp;&nbsp;&nbsp
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,java,spring,python,django,nodejs,mysql,postgres,mongodb,git,github,vscode,postman,figma" />
 </p>
 
-<p >
-HTML5 &nbsp;&nbsp;&nbsp;
-CSS3 &nbsp;&nbsp;&nbsp;
-JavaScript &nbsp;&nbsp;&nbsp;
-React &nbsp;&nbsp;&nbsp;
-Bootstrap
+<p align="center">
+Frontend • Backend • Database • Tools
 </p>
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=java" /> Java
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=spring" /> Spring Boot
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" /> Python
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=django" /> Django
-&nbsp;&nbsp;
-
-</p>
-
----
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" /> MySQL
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postgres" /> PostgreSQL
-&nbsp;&nbsp;
-
-</p>
-
----
-
-### Data Analytics
-
-<p>
-📊 Power BI
-&nbsp;&nbsp;
-📈 Excel
-&nbsp;&nbsp;
-📉 DAX
-</p>
-
----
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git" /> Git
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" /> GitHub
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" /> VS Code
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postman" /> Postman
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=figma" /> Figma
-</p>---
+----
 
 ## 👨‍🏫 Training Highlights
 
