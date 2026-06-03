@@ -97,7 +97,11 @@ Empowering learners through practical training, hands-on projects, real-world ap
 
 #### Tech Stack
 
-📊 Power BI • DAX • Excel • Business Intelligence
+<p>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="30"/>
+</p>
+
+**Power BI • DAX • Excel • Business Intelligence**
 
 🔗 Repository: [View Project](https://github.com/suvithra18/Power-BI-Revenue-Leakage-Project)
 
@@ -114,7 +118,9 @@ Empowering learners through practical training, hands-on projects, real-world ap
 
 #### Tech Stack
 
-📊 Power BI • DAX • Excel
+<img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
+
+**Power BI • DAX • Excel**
 
 🔗 Repository: [View Project](https://github.com/suvithra18/Power-BI-Process-Pulse)
 
@@ -202,12 +208,12 @@ PostgreSQL
 <table align="center">
 <tr>
 <td align="center" width="120">
-📊<br>
+<img src="https://img.icons8.com/color/48/power-bi.png" width="50"/><br>
 Power BI
 </td>
 
 <td align="center" width="120">
-📈<br>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="50"/><br>
 Excel
 </td>
 
