@@ -105,55 +105,80 @@ Passionate about mentoring future developers, building scalable applications, an
 - Executive Dashboard Reporting
 
 #### Tech Stack
-
-📊 Power BI • Excel • DAX
+📊 Power BI • DAX • Excel 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
+### Frontend
 
-| Technology | Skills |
-|------------|---------|
-| ⚛️ React.js | Components, Hooks, Routing |
-| 🎨 HTML5 & CSS3 | Responsive UI Design |
-| 🟨 JavaScript | ES6+, DOM, Async Programming |
-| 🅱️ Bootstrap | Mobile First Design |
+<p>
+<img src="https://skillicons.dev/icons?i=html" /> HTML5
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" /> CSS3
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" /> JavaScript
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" /> React.js
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" /> Bootstrap
+</p>
 
-### Backend Development
+---
 
-| Technology | Skills |
-|------------|---------|
-| ☕ Java | OOP, Collections, Multithreading |
-| 🍃 Spring Boot | REST APIs, Security, JPA |
-| 🐍 Python | Automation, Backend Development |
-| 🎯 Django | Web Applications, ORM |
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=java" /> Java
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=spring" /> Spring Boot
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" /> Python
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=django" /> Django
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" /> Node.js
+</p>
+
+---
 
 ### Database
 
-| Technology | Skills |
-|------------|---------|
-| 🐬 MySQL | Queries, Joins, Optimization |
-| 🐘 PostgreSQL | Database Design |
-| 🍃 MongoDB | NoSQL Database |
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" /> MySQL
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" /> PostgreSQL
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB
+</p>
 
-### Analytics
+---
 
-| Technology | Skills |
-|------------|---------|
-| 📊 Power BI | Dashboards, DAX |
-| 📈 Excel | Reporting & Analytics |
+### Data Analytics
+
+<p>
+📊 Power BI
+&nbsp;&nbsp;
+📈 Excel
+&nbsp;&nbsp;
+📉 DAX
+</p>
+
+---
 
 ### Tools
 
-| Technology |
-|------------|
-| Git |
-| GitHub |
-| VS Code |
-| Postman |
-| Figma |
----
+<p>
+<img src="https://skillicons.dev/icons?i=git" /> Git
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" /> GitHub
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" /> VS Code
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" /> Postman
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=figma" /> Figma
+</p>---
 
 ## 👨‍🏫 Training Highlights
 
