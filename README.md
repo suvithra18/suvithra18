@@ -260,7 +260,7 @@ Excel
 </td>
 
 <td align="center" width="120">
-<img src="./logo.png" width="50" height="100"/><br>
+<img src="./logo.png" height="80"/>
 DAX
 </td></tr>
 </table>
