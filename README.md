@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Suvithra J Banner" />
+  <img src="./banner1.png" alt="Suvithra J Banner" />
 </p>
 
 
