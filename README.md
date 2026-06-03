@@ -21,7 +21,7 @@ Passionate about mentoring future developers, building scalable applications, an
 - 📊 Data Analytics enthusiast with Power BI expertise
 - 👨‍🏫 Trained 500+ students through project-based learning
 - 🚀 Passionate about bridging education and industry
-- 🌱 Currently learning **Advanced Power BI, AWS & AI Tools**
+- 🌱 Currently learning **Data Science, AWS & AI Tools**
 
 ---
 
