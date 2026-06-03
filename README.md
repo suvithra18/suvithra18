@@ -110,14 +110,79 @@ Passionate about mentoring future developers, building scalable applications, an
 
 ## 🛠️ Tech Stack
 
+### Frontend
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,java,spring,python,django,nodejs,mysql,postgres,mongodb,git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </p>
 
 <p align="center">
-Frontend • Backend • Database • Tools
+HTML5 &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+CSS3 &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+JavaScript &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+React.js &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+Bootstrap
 </p>
 
+---
+
+### Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs" />
+</p>
+
+<p align="center">
+Java &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+Spring Boot &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+Python &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+Django 
+</p>
+
+---
+
+### Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+<p align="center">
+MySQL &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+PostgreSQL
+</p>
+
+---
+
+### Data Analytics
+
+<p align="center">
+  📊 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  📈 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  📉
+</p>
+
+<p align="center">
+Power BI &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+Excel &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+DAX
+</p>
+
+---
+
+### Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+<p align="center">
+Git &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+GitHub &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+VS Code &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+Postman &nbsp;&nbsp;&nbsp; 
+
+</p>
 ----
 
 ## 👨‍🏫 Training Highlights
