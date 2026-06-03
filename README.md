@@ -240,12 +240,11 @@ Postman
 
 ## 👨‍🏫 Training Highlights
 
-- 🎯 Trained 500+ learners
+- 🎯 Trained 2000+ learners
 - 📚 Designed Full Stack Development Curriculum
-- 🏆 Conducted 40+ Workshops & Hackathons
-- 💼 Mentored students for placements and interviews
-- 🚀 Built project-based learning programs
-
+- 🏆 Conducted 15+ Workshops & Hackathons
+- 💼 Mentored Students for Placements and Interviews
+- 🚀 Developed Industry-Oriented Project-Based Learning Programs
 ---
 
 ## 📜 Certifications
@@ -267,14 +266,6 @@ Postman
 
 ---
 
-## 🎯 2026 Goals
 
-- Master Advanced Power BI
-- Build AI-powered Analytics Solutions
-- Contribute to Open Source Projects
-- Create Industry-Oriented Training Programs
-- Expand Full Stack Development Expertise
-
----
 
 ⭐ If you like my work, feel free to connect and collaborate!
