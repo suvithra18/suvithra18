@@ -105,7 +105,8 @@ Passionate about mentoring future developers, building scalable applications, an
 - Executive Dashboard Reporting
 
 #### Tech Stack
-📊 Power BI • DAX • Excel
+
+<sub>📊 Power BI • DAX • Excel</sub>
 ---
 
 ## 🛠️ Tech Stack
