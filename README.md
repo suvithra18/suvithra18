@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suvithra J</h1>
 
 <h3 align="center">
-Senior Technical Trainer | Full Stack Developer | Java | Python 
+Senior Technical Trainer | Full Stack Developer | Data Analytics Enthusiast
 </h3>
 
 <p align="center">
@@ -19,7 +19,7 @@ Empowering learners through practical training, hands-on projects, real-world ap
 - 🎓 Senior Technical Trainer with 5+ years of experience
 - 💻 Full Stack Developer specializing in Java, Spring Boot, React, Python & Django
 - 📊 Data Analytics enthusiast with Power BI expertise
-- 👨‍🏫 Trained 500+ students through project-based learning
+- 👨‍🏫 Trained 2000+ learners through project-based learning
 - 🚀 Passionate about bridging education and industry
 - 🌱 Currently learning **Data Science, AWS & AI Tools**
 
@@ -42,6 +42,8 @@ Empowering learners through practical training, hands-on projects, real-world ap
 
 **React.js • Spring Boot • MySQL • JWT • REST API**
 
+🔗 Repository: [View Project](https://github.com/suvithra18/Smart-Apartment-Management-System)
+
 ---
 
 ### 🤖 CodeGenome AI Platform
@@ -60,6 +62,8 @@ Empowering learners through practical training, hands-on projects, real-world ap
 
 **React.js • Spring Boot • Python • MySQL • AI Integration**
 
+🔗 Repository: [View Project](https://github.com/suvithra18/CodeGenome-AI-Platform)
+
 ---
 
 ### 📊 EmoHealth Analytics Dashboard
@@ -77,6 +81,8 @@ Empowering learners through practical training, hands-on projects, real-world ap
 
 📊 Power BI • DAX • Excel • Data Analytics
 
+🔗 Repository: [View Project](https://github.com/suvithra18/Power-BI-EmoHealth_Analytics)
+
 ---
 
 ### 💰 Revenue Leakage Analytics Dashboard
@@ -93,6 +99,8 @@ Empowering learners through practical training, hands-on projects, real-world ap
 
 📊 Power BI • DAX • Excel • Business Intelligence
 
+🔗 Repository: [View Project](https://github.com/suvithra18/Power-BI-Revenue-Leakage-Project)
+
 ---
 
 ### 📈 Process Pulse Dashboard
@@ -107,6 +115,8 @@ Empowering learners through practical training, hands-on projects, real-world ap
 #### Tech Stack
 
 📊 Power BI • DAX • Excel
+
+🔗 Repository: [View Project](https://github.com/suvithra18/Power-BI-Process-Pulse)
 
 ---
 
@@ -236,9 +246,9 @@ Postman
 </tr>
 </table>
 
-----
+---
 
-## 👨‍🏫 Professional Highlights
+## 💼 Professional Highlights
 
 - 🎯 Trained 2000+ learners
 - 📚 Designed Full Stack Development Curriculum
@@ -249,9 +259,11 @@ Postman
 
 ## 📜 Certifications
 
-- Data Analytics – NoviTech R&D Pvt Ltd
-- Data Analytics – Nexila Technologies
-- MySQL – Great Learning
+🏆 Data Analytics – NoviTech R&D Pvt Ltd
+
+🏆 Data Analytics – Nexila Technologies
+
+🏆 MySQL – Great Learning
 
 ---
 
@@ -268,4 +280,5 @@ Postman
 
 
 
-⭐ If you like my work, feel free to connect and collaborate!
+💡 Open to opportunities in Technical Training, Full Stack Development, and Data Analytics.
+🤝 Let's connect and build impactful solutions together.
