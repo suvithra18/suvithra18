@@ -280,5 +280,5 @@ Postman
 
 
 
-💡 Open to opportunities in Technical Training, Full Stack Development, and Data Analytics.
+💡 Open to opportunities in Technical Training, Full Stack Development, and Data Analytics.</br>
 🤝 Let's connect and build impactful solutions together.
