@@ -106,11 +106,13 @@ Passionate about mentoring future developers, building scalable applications, an
 
 #### Tech Stack
 
-<sub>📊 Power BI • DAX • Excel</sub>
+📊 Power BI • DAX • Excel
+
 ---
 
 ## 🛠️ Tech Stack
-## Frontend
+
+### Frontend
 <table align="center">
 <tr>
 <td align="center" width="120">
