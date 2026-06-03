@@ -29,6 +29,16 @@ Empowering learners through practical training, hands-on projects, real-world ap
 - 🌱 Exploring Data Science, Cloud Technologies, and AI-Powered Solutions
 
 ---
+
+## 📈 GitHub Activity
+
+- 🚀 13 Public Repositories
+- 💻 Full Stack Development Projects
+- 📊 Data Analytics Dashboards
+- 👨‍🏫 Technical Training Resources
+
+  ---
+
 ## 🚀 Featured Projects
 
 ### 🏢 Smart Apartment Management System
@@ -250,8 +260,8 @@ Excel
 </td>
 
 <td align="center" width="120">
-<strong>DAX</strong><br>
-Data Analysis Expressions
+<img src="./logo.png" width="50"/><br>
+DAX
 </td></tr>
 </table>
 
@@ -320,4 +330,4 @@ Postman
 
 🚀 Passionate about mentoring future developers, building scalable applications, and creating impactful data-driven solutions.
 
-📫 Feel free to connect for collaboration, training programs, freelance projects, or full-time opportunities.
+📫 Open to collaborations, technical training opportunities, freelance projects, and full-time roles in Software Development and Data Analytics.
