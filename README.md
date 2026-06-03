@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suvithra J</h1>
 
 <h3 align="center">
-Senior Technical Trainer | Full Stack Developer | Power BI Developer
+5+ Years Experience | Senior Technical Trainer | Full Stack Developer | Java | Python 
 </h3>
 
 <p align="center">
