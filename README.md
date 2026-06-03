@@ -255,6 +255,7 @@ Postman
 - 🏆 Conducted 15+ Workshops & Hackathons
 - 💼 Mentored Students for Placements and Interviews
 - 🚀 Developed Industry-Oriented Project-Based Learning Programs
+  
 ---
 
 ## 📜 Certifications
@@ -271,14 +272,17 @@ Postman
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/suvithraj
-- 🌐 Portfolio: https://suvithra18.github.io/portfolio
+- 💼 LinkedIn: [linkedin.com/in/suvithraj](https://linkedin.com/in/suvithraj)
+- 🌐 Portfolio: [Portfolio Website](https://suvithra18.github.io/portfolio)
 - 📧 Email: suvithrachithra@gmail.com
-- 🐙 GitHub: https://github.com/suvithra18
+- 🐙 GitHub: [github.com/suvithra18](https://github.com/suvithra18)
 
 ---
 
+## 🤝 Let's Connect
 
+💡 Open to opportunities in Technical Training, Full Stack Development, and Data Analytics.
 
-💡 Open to opportunities in Technical Training, Full Stack Development, and Data Analytics.</br>
-🤝 Let's connect and build impactful solutions together.
+🚀 Passionate about mentoring, software development, and data-driven solutions.
+
+📫 Feel free to connect for collaboration, training, or professional opportunities.
