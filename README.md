@@ -5,8 +5,7 @@ Senior Technical Trainer | Full Stack Developer | Power BI Developer
 </h3>
 
 <p align="center">
-
-Experienced professional with 5+ years in technical training, software development, and data analytics, having trained 2000+ learners and delivered industry-focused solutions.
+Empowering learners through practical training, hands-on projects, real-world application development, and career-focused mentoring with industry standards.
 </p>
 
 <p align="center">
