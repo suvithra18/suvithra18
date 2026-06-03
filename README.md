@@ -98,17 +98,6 @@ Passionate about mentoring future developers, building scalable applications, an
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suvithra18&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvithra18&layout=compact" />
-</p>
-
-<p align="center">
 
 
 ## 🌐 Connect With Me
