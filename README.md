@@ -2,7 +2,13 @@
   <img src="./banner1.png" alt="Suvithra J Banner" />
 </p>
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 <p align="center">
 Empowering learners through practical training, hands-on projects, real-world application development, and career-focused mentoring with industry standards.
 </p>
@@ -46,6 +52,8 @@ Empowering learners through practical training, hands-on projects, real-world ap
 
 🔗 Repository: [View Project](https://github.com/suvithra18/Smart-Apartment-Management-System)
 
+📂 Category: Full Stack Java Development
+
 ---
 
 ### 🤖 CodeGenome AI Platform
@@ -67,6 +75,8 @@ Empowering learners through practical training, hands-on projects, real-world ap
 **React.js • Spring Boot • Python • MySQL • AI Integration**
 
 🔗 Repository: [View Project](https://github.com/suvithra18/CodeGenome-AI-Platform)
+
+📂 Category: AI & Python Development
 
 ---
 
@@ -91,6 +101,8 @@ Empowering learners through practical training, hands-on projects, real-world ap
 
 🔗 Repository: [View Project](https://github.com/suvithra18/Power-BI-EmoHealth_Analytics)
 
+📂 Category: Data Analytics Dashboard
+
 ---
 
 ### 💰 Revenue Leakage Analytics Dashboard
@@ -114,6 +126,8 @@ Empowering learners through practical training, hands-on projects, real-world ap
 
 🔗 Repository: [View Project](https://github.com/suvithra18/Power-BI-Revenue-Leakage-Project)
 
+📂 Category: Data Analytics Dashboard
+
 ---
 
 ### 📈 Process Pulse Dashboard
@@ -135,6 +149,8 @@ Empowering learners through practical training, hands-on projects, real-world ap
 **Power BI • DAX • Excel**
 
 🔗 Repository: [View Project](https://github.com/suvithra18/Power-BI-Process-Pulse)
+
+📂 Category: Data Analytics Dashboard
 
 ---
 
@@ -302,6 +318,6 @@ Postman
 
 💡 Open to opportunities in Technical Training, Full Stack Development, and Data Analytics.
 
-🚀 Passionate about mentoring, software development, and data-driven solutions.
+🚀 Passionate about mentoring future developers, building scalable applications, and creating impactful data-driven solutions.
 
-📫 Feel free to connect for collaboration, training, or professional opportunities.
+📫 Feel free to connect for collaboration, training programs, freelance projects, or full-time opportunities.
