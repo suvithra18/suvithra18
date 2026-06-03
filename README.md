@@ -20,7 +20,7 @@ Empowering learners through practical training, hands-on projects, real-world ap
 - 📊 Data Analytics enthusiast with Power BI expertise
 - 👨‍🏫 Trained 2000+ learners through project-based learning
 - 🚀 Passionate about bridging education and industry
-- 🌱 Currently learning **Data Science, AWS & AI Tools**
+- 🌱 Exploring Data Science, Cloud Technologies, and AI-Powered Solutions
 
 ---
 ## 🚀 Featured Projects
@@ -211,6 +211,10 @@ MySQL
 PostgreSQL
 </td>
 
+<td align="center" width="120">
+🗄️<br>
+SQL
+</td>
 
 </tr>
 </table>
@@ -267,12 +271,12 @@ Postman
 
 ## 💼 Professional Highlights
 
-- 🎯 Trained 2000+ learners
-- 📚 Designed Full Stack Development Curriculum
-- 🏆 Conducted 15+ Workshops & Hackathons
-- 💼 Mentored Students for Placements and Interviews
-- 🚀 Developed Industry-Oriented Project-Based Learning Programs
-  
+- 🎯 Trained 2000+ learners across Full Stack Development and Programming
+- 📚 Designed and delivered industry-oriented technical curricula
+- 🏆 Conducted 15+ technical workshops, bootcamps, and hackathons
+- 💼 Mentored students for internships, placements, and career growth
+- 🚀 Built project-based learning programs aligned with industry requirements
+    
 ---
 
 ## 📜 Certifications
