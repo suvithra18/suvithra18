@@ -238,7 +238,7 @@ Postman
 
 ----
 
-## 👨‍🏫 Training Highlights
+## 👨‍🏫 Professional Highlights
 
 - 🎯 Trained 2000+ learners
 - 📚 Designed Full Stack Development Curriculum
