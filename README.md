@@ -24,60 +24,135 @@ Passionate about mentoring future developers, building scalable applications, an
 - 🌱 Currently learning **Data Science, AWS & AI Tools**
 
 ---
-
 ## 🚀 Featured Projects
 
 ### 🏢 Smart Apartment Management System
-- React.js, Spring Boot, MySQL
-- Resident, Visitor, Parking & Payment Management
-- JWT Authentication
-- PDF & Excel Reporting
+
+#### Key Features
+- Resident Management
+- Visitor Tracking
+- Complaint Management
+- Parking Allocation System
+- Online Payment Tracking
+- JWT Authentication & Authorization
+- PDF and Excel Report Generation
+
+#### Tech Stack
+<img src="https://skillicons.dev/icons?i=react,spring,mysql" />
+
+**React.js • Spring Boot • MySQL • JWT • REST API**
+
+---
 
 ### 🤖 CodeGenome AI Platform
+
+#### Key Features
 - Resume Analysis
-- Mock Interviews
-- GitHub Evaluation
-- Student Performance Analytics
+- GitHub Profile Evaluation
+- Coding Assessment Tracking
+- Mock Interview Management
+- Student Leaderboard
+- Automated Performance Reports
+- Skill Gap Analysis
+
+#### Tech Stack
+<img src="https://skillicons.dev/icons?i=react,spring,mysql,python" />
+
+**React.js • Spring Boot • Python • MySQL • AI Integration**
+
+---
 
 ### 📊 EmoHealth Analytics Dashboard
-- Power BI Dashboard
+
+#### Key Features
+- Healthcare Data Analysis
+- Patient Risk Assessment
 - Forecasting Models
-- DAX Measures
-- Healthcare Analytics
+- Interactive KPI Dashboard
+- DAX Calculations
+- Trend Analysis
+- Executive Reporting
 
-### 💰 Revenue Leakage Analytics
-- Business KPI Tracking
-- Revenue Monitoring
-- Interactive Power BI Reports
+#### Tech Stack
 
+📊 Power BI • DAX • Excel • Data Analytics
+
+---
+
+### 💰 Revenue Leakage Analytics Dashboard
+
+#### Key Features
+- Revenue Loss Identification
+- KPI Monitoring
+- Department Performance Analysis
+- Trend Visualization
+- Business Insights Reporting
+- Interactive Filters
+
+#### Tech Stack
+
+📊 Power BI • DAX • Excel • Business Intelligence
+
+---
+
+### 📈 Process Pulse Dashboard
+
+#### Key Features
+- Workflow Performance Tracking
+- SLA Monitoring
+- Process Bottleneck Detection
+- Resource Utilization Analysis
+- Executive Dashboard Reporting
+
+#### Tech Stack
+
+📊 Power BI • Excel • DAX
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-</p>
+| Technology | Skills |
+|------------|---------|
+| ⚛️ React.js | Components, Hooks, Routing |
+| 🎨 HTML5 & CSS3 | Responsive UI Design |
+| 🟨 JavaScript | ES6+, DOM, Async Programming |
+| 🅱️ Bootstrap | Mobile First Design |
 
-### Backend
+### Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,django" />
-</p>
+| Technology | Skills |
+|------------|---------|
+| ☕ Java | OOP, Collections, Multithreading |
+| 🍃 Spring Boot | REST APIs, Security, JPA |
+| 🐍 Python | Automation, Backend Development |
+| 🎯 Django | Web Applications, ORM |
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
-</p>
+| Technology | Skills |
+|------------|---------|
+| 🐬 MySQL | Queries, Joins, Optimization |
+| 🐘 PostgreSQL | Database Design |
+| 🍃 MongoDB | NoSQL Database |
+
+### Analytics
+
+| Technology | Skills |
+|------------|---------|
+| 📊 Power BI | Dashboards, DAX |
+| 📈 Excel | Reporting & Analytics |
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
-
+| Technology |
+|------------|
+| Git |
+| GitHub |
+| VS Code |
+| Postman |
+| Figma |
 ---
 
 ## 👨‍🏫 Training Highlights
