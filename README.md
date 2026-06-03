@@ -86,6 +86,7 @@ Empowering learners through practical training, hands-on projects, real-world ap
 <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/>
 </p>
+
 **Power BI • DAX • Excel • Data Analytics**
 
 🔗 Repository: [View Project](https://github.com/suvithra18/Power-BI-EmoHealth_Analytics)
