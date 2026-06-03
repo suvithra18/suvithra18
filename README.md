@@ -109,7 +109,7 @@ Passionate about mentoring future developers, building scalable applications, an
 ---
 
 ## 🛠️ Tech Stack
-
+## Frontend
 <table align="center">
 <tr>
 <td align="center" width="120">
@@ -231,21 +231,8 @@ Postman
 
 
 </tr>
-</table>---
+</table>
 
-### Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
-
-<p align="center">
-Git &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
-GitHub &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
-VS Code &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
-Postman &nbsp;&nbsp;&nbsp; 
-
-</p>
 ----
 
 ## 👨‍🏫 Training Highlights
