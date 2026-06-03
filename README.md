@@ -1,11 +1,7 @@
 <p align="center">
   <img src="./banner.png" alt="Suvithra J Banner" />
 </p>
-<h1 align="center">Hi 👋, I'm Suvithra J</h1>
 
-<h3 align="center">
-Senior Technical Trainer | Full Stack Developer | Data Analytics Enthusiast
-</h3>
 
 <p align="center">
 Empowering learners through practical training, hands-on projects, real-world application development, and career-focused mentoring with industry standards.
@@ -41,7 +37,10 @@ Empowering learners through practical training, hands-on projects, real-world ap
 - PDF and Excel Report Generation
 
 #### Tech Stack
+
+<p align="left">
 <img src="https://skillicons.dev/icons?i=react,spring,mysql" />
+</p>
 
 **React.js • Spring Boot • MySQL • JWT • REST API**
 
@@ -61,7 +60,9 @@ Empowering learners through practical training, hands-on projects, real-world ap
 - Skill Gap Analysis
 
 #### Tech Stack
+<p align="left">
 <img src="https://skillicons.dev/icons?i=react,spring,mysql,python" />
+</p>
 
 **React.js • Spring Boot • Python • MySQL • AI Integration**
 
@@ -81,10 +82,11 @@ Empowering learners through practical training, hands-on projects, real-world ap
 - Executive Reporting
 
 #### Tech Stack
-<p>
+<p align="left">
 <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/>
 </p>
+**Power BI • DAX • Excel • Data Analytics**
 
 🔗 Repository: [View Project](https://github.com/suvithra18/Power-BI-EmoHealth_Analytics)
 
@@ -102,7 +104,7 @@ Empowering learners through practical training, hands-on projects, real-world ap
 
 #### Tech Stack
 
-<p>
+<p align="left">
 <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/>
 </p>
@@ -124,7 +126,7 @@ Empowering learners through practical training, hands-on projects, real-world ap
 
 #### Tech Stack
 
-<p>
+<p align="left">
 <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/>
 </p>
@@ -227,10 +229,9 @@ Excel
 </td>
 
 <td align="center" width="120">
-📉<br>
-DAX
-</td>
-</tr>
+<strong>DAX</strong><br>
+Data Analysis Expressions
+</td></tr>
 </table>
 
 ### Tools
@@ -275,11 +276,9 @@ Postman
 
 ## 📜 Certifications
 
-🏆 Data Analytics – NoviTech R&D Pvt Ltd
-
-🏆 Data Analytics – Nexila Technologies
-
-🏆 MySQL – Great Learning
+- 🏆 Data Analytics – NoviTech R&D Pvt Ltd
+- 🏆 Data Analytics – Nexila Technologies
+- 🏆 MySQL – Great Learning
 
 ---
 
