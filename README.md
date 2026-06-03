@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suvithra J</h1>
 
 <h3 align="center">
-Senior Technical Trainer | Full Stack Developer | Data Analytics Enthusiast
+Senior Technical Trainer | Full Stack Developer | Power BI Developer
 </h3>
 
 <p align="center">
-Passionate about mentoring future developers, building scalable applications, and transforming data into insights.
+Experienced professional with 5+ years in technical training, software development, and data analytics, having trained 2000+ learners and delivered industry-focused projects.
 </p>
 
 <p align="center">
