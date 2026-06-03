@@ -105,26 +105,30 @@ Passionate about mentoring future developers, building scalable applications, an
 - Executive Dashboard Reporting
 
 #### Tech Stack
-📊 Power BI • DAX • Excel 
+📊 Power BI • DAX • Excel
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html" /> HTML5
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" /> CSS3
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" /> JavaScript
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react" /> React.js
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=bootstrap" /> Bootstrap
+<h3 align="center">Frontend</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="50"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50"/>
+  <img src="https://skillicons.dev/icons?i=js" width="50"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/>
 </p>
 
----
+<p align="center">
+HTML5 &nbsp;&nbsp;&nbsp;
+CSS3 &nbsp;&nbsp;&nbsp;
+JavaScript &nbsp;&nbsp;&nbsp;
+React &nbsp;&nbsp;&nbsp;
+Bootstrap
+</p>
 
 ### Backend
 
@@ -137,7 +141,7 @@ Passionate about mentoring future developers, building scalable applications, an
 &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=django" /> Django
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" /> Node.js
+
 </p>
 
 ---
@@ -149,7 +153,7 @@ Passionate about mentoring future developers, building scalable applications, an
 &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=postgres" /> PostgreSQL
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB
+
 </p>
 
 ---
