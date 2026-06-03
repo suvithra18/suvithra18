@@ -79,7 +79,8 @@ Empowering learners through practical training, hands-on projects, real-world ap
 
 #### Tech Stack
 
-📊 Power BI • DAX • Excel • Data Analytics
+<img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/>
 
 🔗 Repository: [View Project](https://github.com/suvithra18/Power-BI-EmoHealth_Analytics)
 
@@ -99,6 +100,7 @@ Empowering learners through practical training, hands-on projects, real-world ap
 
 <p>
   <img src="https://img.icons8.com/color/48/power-bi.png" width="30"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/>
 </p>
 
 **Power BI • DAX • Excel • Business Intelligence**
@@ -119,6 +121,7 @@ Empowering learners through practical training, hands-on projects, real-world ap
 #### Tech Stack
 
 <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/>
 
 **Power BI • DAX • Excel**
 
@@ -243,7 +246,7 @@ GitHub
 VS Code
 </td>
 
-<td align="center" width="120">
+<td align="center" width="180">
 <img src="https://skillicons.dev/icons?i=postman" width="50"/><br>
 Postman
 </td>
