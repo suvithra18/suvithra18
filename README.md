@@ -115,10 +115,10 @@ Passionate about mentoring future developers, building scalable applications, an
 
 
 <p >
-  <img src="https://skillicons.dev/icons?i=html" width="50"/>&nbsp
-  <img src="https://skillicons.dev/icons?i=css" width="50"/>&nbsp
-  <img src="https://skillicons.dev/icons?i=js" width="50"/>&nbsp
-  <img src="https://skillicons.dev/icons?i=react" width="50"/>&nbsp
+  <img src="https://skillicons.dev/icons?i=html" width="50"/>&nbsp;&nbsp;&nbsp
+  <img src="https://skillicons.dev/icons?i=css" width="50"/>&nbsp;&nbsp;&nbsp
+  <img src="https://skillicons.dev/icons?i=js" width="50"/>&nbsp;&nbsp;&nbsp
+  <img src="https://skillicons.dev/icons?i=react" width="50"/>&nbsp;&nbsp;&nbsp
   <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/>
 </p>
 
